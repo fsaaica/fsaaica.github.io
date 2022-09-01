@@ -1,0 +1,15 @@
+body {
+	color : black;
+	background-image: url("image/pattern2.svg");
+}
+.p1 {
+	color: white;
+	background-color: black;
+	padding-top:3px;
+}
+.footer {
+	font-size: 2px;
+}
+.p2 {
+	font-size: 70px;
+}

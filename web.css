@@ -1,0 +1,12 @@
+body {
+	color: black;
+	background-image: url("image/pattern1.svg");
+}
+table {
+	border: 1px solid black;
+}
+.p1 {
+	color: white;
+	background-color: black;
+	padding-top:3px;
+}

@@ -1,0 +1,10 @@
+body {
+	color : black;
+	background-image: url("image/pattern3.svg");
+	font-family: Arial;
+}
+.p1 {
+	color: white;
+	background-color: black;
+	padding-top:3px;
+}
